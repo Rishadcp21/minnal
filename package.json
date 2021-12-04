@@ -1,14 +1,14 @@
 {
-  "name": "Raganork",
+  "name": "Minnal",
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "description": "Minnal whatsapp bot-  by Rishad Cp.",
   "main": "./Raganork/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "git+https://github.com/Rishadcp21/minnal.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "author": "AsenaDev / RISHAD CP",
+  "developer": "Raganork / RISHAD  CP",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://github.com/Rishadcp21/minnal/issues"
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://github.com/Rishadcp21/minnal#readme",
   "dependencies": {
     "raganork-bot": "1.4.5",
     "sharp": "0.29.2"
